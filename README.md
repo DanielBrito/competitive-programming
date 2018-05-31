@@ -1,2 +1,2 @@
 # programming-problems
-Uma boa forma de aprimorar a capacidade criativa na programação.
+Learn the basics. Learn by doing. Apply knowledge.
