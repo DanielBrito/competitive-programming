@@ -17,7 +17,6 @@ int main(){
 	scanf("%d", &number);
 	
 	printf("Area of the polygon = %d\n", shapeArea(number));
-	
-	system("PAUSE");
+
 	return 0;	
 }
