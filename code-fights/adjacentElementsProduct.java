@@ -1,4 +1,4 @@
-/* https://codefights.com/arcade/intro/level-2/xzKiBHjhoinnpdh6m*/
+/* https://codefights.com/arcade/intro/level-2/xzKiBHjhoinnpdh6m */
 
 public class adjacentElementsProduct {
 
