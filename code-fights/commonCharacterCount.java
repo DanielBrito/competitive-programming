@@ -4,7 +4,8 @@ public class commonCharacterCount {
 
 	public static void main(String[] args) {
 		
-		String str1 = "abcdefghxyzttw"; String str2 = "hgfedcbaabcwwt";
+		String str1 = "abcdefghxyzttw"; 
+		String str2 = "hgfedcbaabcwwt";
 		
 		int commonTotal=0, i, countS1=0, countS2=0;
 		
@@ -17,8 +18,8 @@ public class commonCharacterCount {
 				
 				if(s1[i]!='-') {
 					
-					countS1 = countOccurances(s1, s1[i]);
-					countS2 = countOccurances(s2, s1[i]);
+					countS1 = countOccurrences(s1, s1[i]);
+					countS2 = countOccurrences(s2, s1[i]);
 					
 					replaceChar(s1, s1[i], '-');
 					replaceChar(s2, s1[i], '-');
@@ -40,8 +41,8 @@ public class commonCharacterCount {
 				
 				if(s1[i]!='-') {
 					
-					countS1 = countOccurances(s1, s1[i]);
-					countS2 = countOccurances(s2, s1[i]);
+					countS1 = countOccurrences(s1, s1[i]);
+					countS2 = countOccurrences(s2, s1[i]);
 					
 					replaceChar(s1, s1[i], '-');
 					replaceChar(s2, s1[i], '-');
@@ -61,7 +62,7 @@ public class commonCharacterCount {
 		System.out.println(commonTotal);
 	}
 	
-	public static int countOccurances(char[] str, char ch) {
+	public static int countOccurrences(char[] str, char ch) {
 		
 		int count=0;
 		
@@ -87,5 +88,3 @@ public class commonCharacterCount {
 		}
 	}
 }
-
-
