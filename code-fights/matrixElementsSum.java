@@ -6,12 +6,12 @@ public class matrixElementsSum {
 		
 		int[][] matrix = {{0,1,1,2},
 		    	          {0,5,0,0},
-				          {2,0,3,3}};
+				  {2,0,3,3}};
 		
 		int row = matrix.length;
 		int col = matrix[0].length;
 		
-		int i=0, j=0, total=0, count=0;
+		int i, j, total=0, count=0;
 		
 		for(j=0; j<col; j++) {
 			
