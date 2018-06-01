@@ -1,4 +1,4 @@
-/* https://codefights.com/arcade/intro/level-2/2mxbGwLzvkTCKAJMG/solutions */
+/* https://codefights.com/arcade/intro/level-2/2mxbGwLzvkTCKAJMG */
 
 public class almostIncreasingSequence {
 
