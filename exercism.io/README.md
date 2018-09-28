@@ -1,2 +1,2 @@
-# Profile
-http://exercism.io/DanielBrito
+# Available at
+https://exercism.io/
