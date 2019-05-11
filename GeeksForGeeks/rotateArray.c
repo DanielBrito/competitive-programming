@@ -51,3 +51,55 @@ int main(){
 
     return 0;
 }
+
+/* 
+// SUBMITTED CODE:
+
+#include<stdio.h>
+#include<stdlib.h>
+
+int main(){
+
+    int N, D, i, cont=0, testCase;
+    int *arr, *result;
+    
+    scanf("%d", &testCase);
+    
+    do{
+    	
+    	scanf("%d %d", &N, &D);
+
+	    arr = (int*)malloc(sizeof(int)*N);
+	    result = (int*)malloc(sizeof(int)*N);
+	
+	    for(i=0; i<N; i++){
+	
+	        scanf("%d", &arr[i]);
+	    }
+	
+	    for(i=0; i<N; i++){
+	
+	      if((i+D)>=N){
+	
+	        result[i] = arr[abs(N-(i+D))];
+	      }
+	      else{
+	
+	        result[i] = arr[i+D];
+	      }
+	    }
+	
+	    for(i=0; i<N; i++){
+	
+	        printf("%d ", result[i]);
+	    }
+	
+	    printf("\n");
+    	
+    	++cont;
+    	
+	}while(cont<testCase);
+
+    return 0;
+}
+*/
