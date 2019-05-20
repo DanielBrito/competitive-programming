@@ -1,2 +1,2 @@
 # Available at
-https://www.t-obi.com/
+https://olimpiada.ic.unicamp.br/pratique/
