@@ -1,6 +1,6 @@
 /* https://app.codesignal.com/arcade/intro/level-4/xvkRbxYkdHdHNCKjg */
 
-public class ArrayChange {
+public class arrayChange {
 
     public static void main(String[] args) {
         
