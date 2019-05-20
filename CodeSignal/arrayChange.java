@@ -15,7 +15,7 @@ public class arrayChange {
                 
                 array[i+1] = array[i+1]+((Math.abs(array[i]-array[i+1]))+1);
                 
-                sum = sum + Math.abs(array[i]-temp)+1;
+                sum += Math.abs(array[i]-temp)+1;
             }
         }
         
