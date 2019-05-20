@@ -2,7 +2,7 @@
 
 import java.util.Arrays;
 
-public class AreSimilar {
+public class areSimilar {
 
     public static void main(String[] args) {
         
