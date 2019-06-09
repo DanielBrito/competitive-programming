@@ -1,15 +1,15 @@
 /* https://app.codesignal.com/challenge/vJMeEAya7gEckYfQW*/
 
-public class SwapNeighbouringDigits {
+public class swapNeighbouringDigits {
 
 	public static void main(String[] args) {
 		
 		int n = 12345678;
 		
-		System.out.println(swapNeighbouringDigits(n));
+		System.out.println(SwapNeighbouringDigits(n));
 	}
 	
-	public static int swapNeighbouringDigits(int n) {
+	public static int SwapNeighbouringDigits(int n) {
 		
 		StringBuilder number = new StringBuilder(Integer.toString(n));
 		
