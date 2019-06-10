@@ -1,4 +1,4 @@
-/* https://app.codesignal.com/challenge/M2gCWoc9fFk5hgSQT?solutionId=QBqAGgWwpp4NRbRKS */
+/* https://app.codesignal.com/challenge/M2gCWoc9fFk5hgSQT */
 
 #include<stdio.h>
 #include<stdbool.h>
