@@ -18,15 +18,10 @@ int main(){
 
 bool squareColor(int x, int y, int x1, int y1){
 	
-	if(((x%2==1 && y%2==1) && (x1%2==1 && y1%2==1))||((x%2==0 && y%2==0) && (x1%2==0 && y1%2==0))){
-		
-		return true;
-	}
-	
-	if(((x%2==0 && y%2==1) && (x1%2==0 && y1%2==1))||((x%2==1 && y%2==0) && (x1%2==1 && y1%2==0))){
-		
-		return true;
-	}
-	
-	return false;
+    if(abs((abs(x-y)-(abs(x1-y1))))%2==1){
+        
+        return false;
+    }
+    
+    return true;
 }
