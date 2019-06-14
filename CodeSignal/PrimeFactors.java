@@ -38,6 +38,8 @@ public class PrimeFactors {
 	public static boolean isPrime(int n) {
 	    
 	    int i, countDiv=0;
+
+        if(n==1) return false;
 	    
 	    for(i=1; i<=n; i++){
 	        
