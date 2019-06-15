@@ -1,7 +1,5 @@
 /* https://app.codesignal.com/challenge/uTzTdsrpjWEbr37xP */
 
-package com.br.problems;
-
 public class numerology {
 
 	public static void main(String[] args) {
