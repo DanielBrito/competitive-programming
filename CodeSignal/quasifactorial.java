@@ -11,6 +11,6 @@ public class quasifactorial {
 	
 	public static int Quasifactorial(int n){
 
-		return n==1 ? 1 : n * quasifactorial(n-1) - 1;
+		return n==1 ? 1 : n * Quasifactorial(n-1) - 1;
 	}
 }
