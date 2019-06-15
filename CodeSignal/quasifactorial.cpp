@@ -1,3 +1,5 @@
+/* https://app.codesignal.com/challenge/53DMcWRBbZMdsF6vm */
+
 #include <iostream>
 
 using namespace std;
