@@ -1,3 +1,5 @@
+/* https://app.codesignal.com/challenge/53DMcWRBbZMdsF6vm */
+
 public class quasifactorial {
 
 	public static void main(String[] args) {
