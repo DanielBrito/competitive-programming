@@ -3,16 +3,16 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class PrimeFactors {
+public class primeFactors {
 
 	public static void main(String[] args) {
 		
 		int n=100;
 
-		System.out.println(Arrays.toString(primeFactors(n)));
+		System.out.println(Arrays.toString(PrimeFactors(n)));
 	}
 	
-	public static int[] primeFactors(int n){
+	public static int[] PrimeFactors(int n){
 		
 		ArrayList<Integer> list = new ArrayList<Integer>();
 		int i=2;
