@@ -12,7 +12,7 @@ public class numerology {
 	
 	public static String Numerology(String name, String birthDate) {
 		
-		String[] verdict = {"", ": The primal force", ": The all-knowing", ": The creative child", ": The salt of the earth", ": The dynamic force", ": The caretaker", ": The seeker", ": The balance and power", ": The global awareness"};
+		String[] verdict = {"", "primal force", "all-knowing", "creative child", "salt of the earth", "dynamic force", "caretaker", "seeker", "balance and power", "global awareness"};
 		int number=0, result=0;
 		
 		for(int i=0; i<birthDate.length(); i++) {
@@ -20,21 +20,19 @@ public class numerology {
 			if(!(birthDate.charAt(i)=='/')) {
 				
 				number += Integer.parseInt(String.valueOf(birthDate.charAt(i))); 
+				
+				if(number>9) {
+					
+					result = number%10 + number/10;
+					number = result;
+				}
+				else {
+					
+					result = number;
+				}
 			}
 		}
-
-	    while(number>0 || result>9) { 
-	    	
-	        if(number==0) { 
-	        	
-	            number = result; 
-	            result = 0; 
-	        } 
-	        
-	        result += number%10; 
-	        number /= 10; 
-	    } 
 		
-		return name + verdict[result];
+		return name + ": The " + verdict[result];
 	}
 }
