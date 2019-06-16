@@ -3,7 +3,7 @@
 #include<stdio.h>
 #include<stdbool.h>
 
-int evenDigitsOnly(int n);
+bool evenDigitsOnly(int n);
 
 int main(){
 	
@@ -14,18 +14,14 @@ int main(){
 	return 0;
 }
 
-int evenDigitsOnly(int n){
-	
-	int x;
-	
-	while(n>0){
-		
-		x = n%10;
-		
-		if(x%2==1) return false;
-		
-		n /= 10;
-	}
-	
-	return true;
+bool evenDigitsOnly(int n) {
+    
+    while(n>0){
+        
+        if(n%10%2==1) return 0;
+        
+        n /= 10;
+    }
+    
+    return 1;
 }
