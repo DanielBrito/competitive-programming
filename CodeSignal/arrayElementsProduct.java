@@ -1,7 +1,5 @@
 /* https://app.codesignal.com/challenge/TuHac4M5746kwqTaH */
 
-package com.br.problems;
-
 public class arrayElementsProduct {
 
 	public static void main(String[] args) {
