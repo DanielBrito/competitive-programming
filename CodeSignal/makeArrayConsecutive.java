@@ -1,7 +1,5 @@
 /* https://app.codesignal.com/challenge/2w6tp2Lxk6T5QzZxq */
 
-package com.br.problems;
-
 import java.util.Arrays;
 
 public class makeArrayConsecutive2 {
