@@ -2,16 +2,16 @@
 
 import java.util.Arrays;
 
-public class makeArrayConsecutive2 {
+public class makeArrayConsecutive {
 
 	public static void main(String[] args) {
 		
 		int[] statues = {6, 2, 3, 8};
 		
-		System.out.println(MakeArrayConsecutive2(statues));
+		System.out.println(MakeArrayConsecutive(statues));
 	}
 	
-	public static int MakeArrayConsecutive2(int[] s) {
+	public static int MakeArrayConsecutive(int[] s) {
 		
 	    Arrays.sort(s);
 	    int x=0, d, i=0;
