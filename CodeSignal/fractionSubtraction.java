@@ -25,7 +25,7 @@ public class fractionSubtraction {
 		
 		int i=2;
 		
-		do {
+		while(!coprime(r[0], r[1])){
 			
 			if(r[0]%i==0 && r[1]%i==0) {
 				
@@ -34,8 +34,7 @@ public class fractionSubtraction {
 			}
 			
 			i++;
-			
-		}while(!coprime(r[0], r[1]));
+		}
 		
 		return r;
 	}
