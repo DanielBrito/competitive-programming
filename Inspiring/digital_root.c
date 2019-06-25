@@ -1,4 +1,4 @@
-/* Unnamed, zoqdupt, monadius, whatmename, DarkD1 (plus 4 more warriors) @ Codewars */
+/* By: Unnamed, zoqdupt, monadius, whatmename, DarkD1 (plus 4 more warriors) @ Codewars */
 
 #include<stdio.h>
 
