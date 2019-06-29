@@ -17,5 +17,5 @@ int main(){
 
 bool alphabetSubstring(char* s){
     
-    return strstr("abcdefghijklmnopqrstuvwxyz", s) ? true : false;
+    return strstr("abcdefghijklmnopqrstuvwxyz", s);
 }
