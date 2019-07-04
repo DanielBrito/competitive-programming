@@ -2,5 +2,5 @@
 
 ### Helpful links
 
-[Competitive Programming Algorithms](https://cp-algorithms.com/)
+[Competitive Programming Algorithms](https://cp-algorithms.com/)\
 [ProofWiki](https://proofwiki.org/wiki/Main_Page)
