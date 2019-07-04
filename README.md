@@ -1,6 +1,6 @@
 # Programming problems solutions
 
-### Helpful links
+### Helpful content
 
 * [Competitive Programming Algorithms](https://cp-algorithms.com/)
 * [ProofWiki](https://proofwiki.org/wiki/Main_Page)
