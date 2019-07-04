@@ -1,2 +1,6 @@
-# programming-problems
-Resoluções de problemas relacionados à programação.
+# Programming problems solutions
+
+### Helpful links
+
+[Competitive Programming Algorithms](https://cp-algorithms.com/)
+[ProofWiki](https://proofwiki.org/wiki/Main_Page)
