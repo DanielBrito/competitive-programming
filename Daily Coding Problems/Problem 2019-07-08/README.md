@@ -1,4 +1,4 @@
-# Problem: 2019-07-08
+# Problem: 08-Jul-2019
 
 This problem was recently asked by Google.
 
