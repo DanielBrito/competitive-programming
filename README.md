@@ -1,4 +1,4 @@
-# Programming problems solutions
+# Programming problems
 
 Solved problems from several programming platforms and contests.
 
