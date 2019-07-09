@@ -1,6 +1,10 @@
 # Programming problems solutions
 
-Solved problems from several programming platforms. Sometimes, I'm not able to figure out the most efficient approach, but then I do some research and learn new stuff to improve my programming skills.
+Solved problems from several programming platforms and contests.
+
+I try really hard to find the most efficient solution, but sometimes I just really can't, because I'm still learning the power of each language and paradigm (and I'll always be).
+
+But, fortunately, after some research I always end up learning new things and improving my programming skills.
 
 ### Helpful content
 
