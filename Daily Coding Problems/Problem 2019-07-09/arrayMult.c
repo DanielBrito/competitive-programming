@@ -1,3 +1,5 @@
+/* Worst approach. For efficiency see: https://www.geeksforgeeks.org/a-product-array-puzzle/  */
+
 #include<stdio.h>
 #include<stdlib.h>
 
