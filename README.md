@@ -1,5 +1,7 @@
 # Programming problems solutions
 
+Solved problems from several programming platforms. Sometimes, I'm not able to figure out the most efficient approach, but then I do some research and learn new stuff to improve my programming skills.
+
 ### Helpful content
 
 * [Competitive Programming Algorithms](https://cp-algorithms.com/)
