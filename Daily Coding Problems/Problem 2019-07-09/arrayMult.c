@@ -7,18 +7,8 @@ int* arrayMult(int* array, int size);
 
 int main(){
 	
-	int length, i;
-	
-	printf("Enter array size: ");
-	scanf("%d", &length);
-	
-	int* array = (int*)malloc(sizeof(int)*length);
-	
-	printf("Enter array elements: ");
-	for(i=0; i<length; i++){
-		
-		scanf("%d", &array[i]);
-	}
+	int array[] = {1,2,3,4,5};
+	int i, length = sizeof(array)/sizeof(array[0]);
 	
 	int* result;
 	
