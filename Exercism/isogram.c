@@ -4,8 +4,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* http://exercism.io/exercises/c/isogram/readme */
-
 bool is_isogram(const char phrase[]);
 
 int main(){
@@ -18,7 +16,7 @@ int main(){
     }
     else{
 
-        printf("Not a isogram\n");
+        printf("Not an isogram\n");
     }
 
     return 0;
