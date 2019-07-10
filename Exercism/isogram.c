@@ -27,11 +27,6 @@ bool is_isogram(const char phrase[])
     unsigned int i, j;
     int count = 0;
 
-    if(strlen(phrase)==1 || strlen(phrase)==0){
-
-        return true;
-    }
-
     for(i=0; i<strlen(phrase)-1; i++){
 
         count = 0;
