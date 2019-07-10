@@ -8,7 +8,7 @@ bool is_isogram(const char phrase[]);
 
 int main(){
 
-    char string[20] = "Back Groun-D";
+    char string[50] = "angola";
 
     if(is_isogram(string)==true){
 
@@ -22,28 +22,28 @@ int main(){
     return 0;
 }
 
-bool is_isogram(const char phrase[])
-{
-    unsigned int i, j;
-    int count = 0;
-
-    for(i=0; i<strlen(phrase)-1; i++){
-
-        count = 0;
-
-        for(j=i+1; j<strlen(phrase); j++){
-
-            if(tolower(phrase[i]) == tolower(phrase[j]) && phrase[i]!='-' && phrase[i]!=' ' && phrase[j]!='-' && phrase[j]!=' '){
-
-                ++count;
-            }
-
-            if(count>0){
-
-                return false;
-            }
-        }
-    }
+bool is_isogram(const char phrase[]){
+	
+    unsigned int i;
+    char tracked[26] = {0};
+    char letter;
+    
+	for(i=0; i<strlen(phrase); i++){
+		
+		if(isalpha(phrase[i])){
+			
+			char letter = tolower(phrase[i]);
+			
+			if(letter==tracked[letter-97]){
+	
+	           	return false;
+	        }
+	        else{
+	        	
+	        	tracked[letter-97] = letter;
+			}
+		}		
+	}
 
     return true;
 }
