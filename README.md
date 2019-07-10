@@ -2,11 +2,9 @@
 
 Solved problems from several programming platforms and contests.
 
-I try really hard to find the most efficient solution, but sometimes I just really can't, because I'm still learning the power of each language and paradigm (and I'll always be).
+I try really hard to find the most efficient solution, but sometimes I just really can't, because I'm still learning the power of each language and paradigm (and I'll always be). But fortunately, after some research, I always end up discovering awesome tutorials and [inspiring codes](https://github.com/DanielBrito/programming-problems/tree/master/Inspiring%20Codes) which improve my programming skills.
 
-But, fortunately, after some research I always end up learning new things and improving my programming skills.
-
-### Helpful content
+## Helpful content
 
 * [Competitive Programming Algorithms](https://cp-algorithms.com/)
 * [ProofWiki](https://proofwiki.org/wiki/Main_Page)
