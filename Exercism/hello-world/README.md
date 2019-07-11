@@ -1,17 +1,18 @@
-# Word Count
+# Hello World
 
-Given a phrase, count the occurrences of each word in that phrase.
+The classical introductory exercise. Just say "Hello, World!".
 
-For example for the input `"olly olly in come free"`
+["Hello, World!"](http://en.wikipedia.org/wiki/%22Hello,_world!%22_program) is
+the traditional first program for beginning programming in a new language
+or environment.
 
-```text
-olly: 2
-in: 1
-come: 1
-free: 1
-```
+The objectives are simple:
 
-- Note that the tests for this exercise expect the output words to be proper C strings. That is, they should be NUL terminated. See https://en.wikipedia.org/wiki/C_string_handling
+- Write a function that returns the string "Hello, World!".
+- Run the test suite and make sure that it succeeds.
+- Submit your solution and check it at the website.
+
+If everything goes well, you will be ready to fetch your first real exercise.
 
 ## Getting Started
 
@@ -46,7 +47,7 @@ low-level algorithms or facilities by hand.
 
 ## Source
 
-This is a classic toy problem, but we were reminded of it by seeing it in the Go Tour.
+This is an exercise to introduce users to using Exercism [http://en.wikipedia.org/wiki/%22Hello,_world!%22_program](http://en.wikipedia.org/wiki/%22Hello,_world!%22_program)
 
 ## Submitting Incomplete Solutions
 It's possible to submit an incomplete solution so you can see how others have completed the exercise.
