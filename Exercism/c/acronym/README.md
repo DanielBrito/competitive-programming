@@ -1,17 +1,11 @@
-# Isogram
+# Acronym
 
-Determine if a word or phrase is an isogram.
+Convert a phrase to its acronym.
 
-An isogram (also known as a "nonpattern word") is a word or phrase without a repeating letter, however spaces and hyphens are allowed to appear multiple times.
+Techies love their TLA (Three Letter Acronyms)!
 
-Examples of isograms:
-
-- lumberjacks
-- background
-- downstream
-- six-year-old
-
-The word *isograms*, however, is not an isogram, because the s repeats.
+Help generate some jargon by writing a program that converts a long name
+like Portable Network Graphics to its acronym (PNG).
 
 ## Getting Started
 
@@ -46,7 +40,7 @@ low-level algorithms or facilities by hand.
 
 ## Source
 
-Wikipedia [https://en.wikipedia.org/wiki/Isogram](https://en.wikipedia.org/wiki/Isogram)
+Julien Vanier [https://github.com/monkbroc](https://github.com/monkbroc)
 
 ## Submitting Incomplete Solutions
 It's possible to submit an incomplete solution so you can see how others have completed the exercise.
