@@ -50,7 +50,7 @@ int diagonalDifference(int arr_rows, int arr_columns, int** arr){
 	
 	int i, j, sumLTR=0, sumRTL=0;
 
-	// This is an easy problem but can increase time complexity if implemented in the wrong way
+	// This easy problem is a good opportunity to analyse time complexity
 
 	// We know that arr is a square matrix. So let's suppose its dimension is really big
 	// We don't need to traverse the whole matrix, because we can use a more efficient approach:
