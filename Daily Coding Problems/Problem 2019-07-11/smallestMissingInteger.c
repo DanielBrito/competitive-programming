@@ -7,7 +7,7 @@ int compare (const void * a, const void * b);
 
 int main(){
 	
-	int array[] = {-1,-24,-20,1,2,4,3};
+	int array[] = {1,2,2,2,2};
 	int i, length=sizeof(array)/sizeof(int);
 	
 	printf("%d\n", smallestMissingInteger(array, length));
