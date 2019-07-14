@@ -2,7 +2,7 @@
 
 Solved problems from several programming platforms, contests and interviews.
 
-I try really hard to find the most efficient solution, but sometimes I just really can't (and appeal to brute force), because I'm still learning the power of each language and paradigm (and I'll always be). But fortunately, after some research, I always end up discovering awesome articles and [inspiring codes](https://github.com/DanielBrito/programming-problems/tree/master/Inspiring%20Codes) which improve my programming skills.
+I try really hard to find the most efficient solution, but sometimes I just really can't (and appeal to brute force), because I'm still learning the power of each data structure, language and paradigm (and I'll always be). But fortunately, after some research, I always end up discovering awesome articles and [inspiring codes](https://github.com/DanielBrito/programming-problems/tree/master/Inspiring%20Codes) which improve my programming skills.
 
 (P.S.: When I feel inspired, I try to document these codes (exploring time and space complexity) to facilitate the understanding of what I'm doing.)
 
