@@ -12,7 +12,5 @@ I try really hard to find the most efficient solution, but sometimes I just real
 * [ProofWiki](https://proofwiki.org/wiki/Main_Page)
 * [Algorithms (Robert Sedgewick)](https://algs4.cs.princeton.edu/home/)
 * [The Art of Computer Programming - Vol. I II III IV (Donald Knuth)](https://docero.com.br/doc/eenxxn)
-* [Time and Space Complexity (Hacker Earth)](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/)
-* [Basics of Bit Manipulation (Hacker Earth)](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/tutorial/)
-* [Recursion and Backtracking (Hacker Earth)](https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/tutorial/)
+* [Programming Tutorials (HackerEarth)](https://www.hackerearth.com/practice/)
 * [Coding Interview Glossary (Interview Cake)](https://www.interviewcake.com/glossary)
