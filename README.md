@@ -15,3 +15,4 @@ I try really hard to find the most efficient solution, but sometimes I just real
 * [Time and Space Complexity (Hacker Earth)](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/)
 * [Basics of Bit Manipulation (Hacker Earth)](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/tutorial/)
 * [Recursion and Backtracking (Hacker Earth)](https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/tutorial/)
+* [Coding Interview Glossary (Interview Cake)](https://www.interviewcake.com/glossary)
