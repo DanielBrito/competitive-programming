@@ -1,6 +1,6 @@
 /* https://algodaily.com/challenges/is-an-anagram */
 
-function countChar(str1, str2){
+function isAnagram(str1, str2){
     
     if(str1.length!=str2.length) return false;
     
@@ -18,4 +18,4 @@ function countChar(str1, str2){
     return x==y ? true : false; 
 }
 
-console.log(countChar("Mary", "Army"))
+console.log(isAnagram("Mary", "Army"))
