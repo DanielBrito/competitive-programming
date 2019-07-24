@@ -1,4 +1,4 @@
-/*  Must Do Interview Preparation */
+/* https://practice.geeksforgeeks.org/courses/must-do-interview-prep/ */
 
 #include<iostream>
 

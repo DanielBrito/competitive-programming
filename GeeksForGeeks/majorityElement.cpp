@@ -1,5 +1,4 @@
-/*  Must Do Interview Preparation */
-
+/* https://practice.geeksforgeeks.org/courses/must-do-interview-prep/ */
 /* Reference: https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm */
 
 #include<iostream>
