@@ -33,7 +33,7 @@ public class palindrome {
 	}
 	
 	// Similar to the first method, but in this case we just check the string until its middle:
-	// Time complexity: O(log n) | Space complexity: O(1)
+	// Time complexity: O(n) | Space complexity: O(1)
 	
 	public static boolean palindromeV3(String str) {
 		
