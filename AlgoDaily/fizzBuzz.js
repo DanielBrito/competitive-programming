@@ -21,3 +21,5 @@ function fizzBuzz(n) {
     }
     return str;
 }
+
+console.log(fizzBuzz(15))
