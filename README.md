@@ -16,3 +16,4 @@ I try really hard to find the most efficient solution, but sometimes I just real
 * [Programming Tutorials (HackerEarth)](https://www.hackerearth.com/practice/)
 * [Coding Interview Glossary (Interview Cake)](https://www.interviewcake.com/glossary)
 * [Programming Challenges - The Programming Contest Training Manual (Steven Skiena)](http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf)
+* [Cracking the Coding Skills (Handout)](https://miro.medium.com/max/5100/1*UsPt4i_tM99tWVWa2aa29g.png)
