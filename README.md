@@ -18,3 +18,4 @@ I try really hard to find the most efficient solution, but sometimes I just real
 * [Programming Challenges - The Programming Contest Training Manual (Steven Skiena)](http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf)
 * [Cracking the Coding Skills (Handout)](https://miro.medium.com/max/5100/1*UsPt4i_tM99tWVWa2aa29g.png)
 * [Wolfram MathWorld](http://mathworld.wolfram.com/)
+* [An awesome list for competitive programming (Codeforces)[https://codeforces.com/blog/entry/23054]
