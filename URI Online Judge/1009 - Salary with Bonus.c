@@ -1,6 +1,6 @@
-#include <stdio.h>
-
 // https://www.urionlinejudge.com.br/judge/en/problems/view/1009
+
+#include<stdio.h>
  
 int main() {
  
