@@ -1,10 +1,12 @@
-# Programming problems
+# Competitive Programming
 
-Solved problems from several programming platforms, contests and interviews.
+I think competitive programming is an awesome opportunity for those who want to improve their programming skills because it pushes us to think creatively, and helps us to put into practice that math knowledge we thought we'd never use in our lives in order to solve practical problems.
 
-I try really hard to find the most efficient solution, but sometimes I just really can't (and appeal to brute force), because I'm still learning the power of each data structure, language and paradigm (and I'll always be). But fortunately, after some research, I always end up discovering awesome articles and [inspiring codes](https://github.com/DanielBrito/programming-problems/tree/master/Inspiring%20Codes) which improve my programming skills.
+These are my solutions to some problems from several programming platforms, contests, and interviews.
 
-(P.S.: When I feel inspired, I try to document these codes (exploring time and space complexity) to facilitate the understanding of what I'm doing.)
+I try really hard to find the most efficient solution, but - unfortunately - sometimes I just really can't (and appeal to brute force), because I'm still learning the power of each data structure, technique, language, and paradigm (and I'll always be). However, after some research, I always end up discovering awesome articles and [inspiring codes](https://github.com/DanielBrito/programming-problems/tree/master/Inspiring%20Codes) which improve my programming skills.
+
+When I feel really inspired, I try to document these codes (exploring time and space complexity) to facilitate the understanding of what I'm doing.
 
 ## Helpful content
 
