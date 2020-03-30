@@ -1,6 +1,6 @@
 # Competitive Programming
 
-I think competitive programming is an awesome opportunity for those who want to improve their skills because it pushes us to think creatively, and helps us to put into practice that math knowledge (we thought we'd never use) in order to solve real-world problems.
+I think competitive programming is a great opportunity for those who want to improve their skills because it pushes us to think creatively, and helps us to put into practice that math knowledge (we thought we'd never use) in order to solve real-world problems.
 
 These are my solutions to some challenges from several programming platforms, contests, and interviews.
 
