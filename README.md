@@ -54,6 +54,7 @@ ___
 * [Kick Start](https://codingcompetitions.withgoogle.com/kickstart)
 * [International Olympiad in Informatics](https://ioinformatics.org/page/contests/10)
 * [Olimpíada Brasileira de Informática](https://olimpiada.ic.unicamp.br/pratique/)
+* [Kaggle Competitions](https://www.kaggle.com/competitions)
 
 ___
 
