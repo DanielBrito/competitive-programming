@@ -82,6 +82,7 @@ ___
 ## VIDEOS
 
 * [Maratonas de Programação: Tudo o que Você Precisa Saber (Programador Sagaz)](https://www.youtube.com/watch?v=COweDLKkyiM)
+* [Programming Competitions - Codeforces, Code Jam, ... (Errichto)](https://www.youtube.com/watch?v=cpguolx2oms)
 * [How To Become Red Coder? (Errichto)](https://www.youtube.com/watch?v=y7169jEvb-Y)
 
 ___
