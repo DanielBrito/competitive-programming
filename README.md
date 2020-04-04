@@ -24,7 +24,6 @@ ___
 * [Codingame](https://www.codingame.com/home)
 * [Daily Coding Problems](https://www.dailycodingproblem.com/)
 * [DevSkill](https://www.devskill.com/)
-* [DWITE](http://dwite.org/)
 * [E-Olymp](https://www.e-olymp.com/en/)
 * [Exercism](https://exercism.io/)
 * [Fuzhou University OnlineJudge](http://acm.fzu.edu.cn/)
@@ -50,6 +49,7 @@ ___
 ## CONTESTS
 
 * [Code Jam](https://codingcompetitions.withgoogle.com/codejam)
+* [DWITE](http://dwite.org/)
 * [Hash Code](https://hashcode.withgoogle.com/)
 * [Kick Start](https://codingcompetitions.withgoogle.com/kickstart)
 * [International Olympiad in Informatics](https://ioinformatics.org/page/contests/10)
