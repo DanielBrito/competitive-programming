@@ -92,6 +92,8 @@ ___
 
 * [Wolfram MathWorld](http://mathworld.wolfram.com/)
 * [ProofWiki](https://proofwiki.org/wiki/Main_Page)
+* [Be a Better Programmer with these 45 Mathematics Courses (Hacker Noon)](https://hackernoon.com/be-a-better-programmer-with-these-40-mathematics-courses-d8ca48a2f8a2)
+* [Coding Math ()](https://www.youtube.com/user/codingmath)
 
 ___
 
