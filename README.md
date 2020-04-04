@@ -4,9 +4,9 @@ I think competitive programming is a great opportunity for those who want to imp
 
 These are my solutions to some challenges from several programming platforms, contests, and interviews.
 
-I try really hard to find the most efficient solution, but - unfortunately - sometimes I just really can't (and appeal to brute force), because I'm still learning the power of each data structure, technique, language, and paradigm (and I'll always be). However, after some research, I always end up discovering awesome articles and [inspiring codes](https://github.com/DanielBrito/programming-problems/tree/master/Inspiring%20Codes) which improve my programming skills.
+I try really hard to find the most efficient solution, but (unfortunately) sometimes I just really can't (and appeal to brute force) because I'm still learning the power of each data structure, technique, [language](https://github.com/DanielBrito/learning-languages), and paradigm (and I'll always be). However, after some research, I always end up discovering awesome articles and [inspiring codes](https://github.com/DanielBrito/programming-problems/tree/master/Inspiring%20Codes) which improve my programming skills.
 
-When I feel inspired, I try to document these codes to facilitate the understanding of what I'm doing. You can also check this [playlist](https://www.youtube.com/playlist?list=PLckh4uyjCOmjvKSfrDDJ6oh1lIF3qJ3hM) that I've created on Youtube (to try) to explain my coding process.
+When I feel inspired, I try to document these codes (exploring time and space complexity) to facilitate the understanding of what I'm doing. You can also check this [playlist](https://www.youtube.com/playlist?list=PLckh4uyjCOmjvKSfrDDJ6oh1lIF3qJ3hM) that I've created on Youtube (to try) to explain my coding process.
 
 ___
 
