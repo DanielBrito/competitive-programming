@@ -1,5 +1,7 @@
 // https://projecteuler.net/problem=1
 
+// https://proofwiki.org/wiki/Definition:Multiple
+
 #include<iostream>
 
 using namespace std;
