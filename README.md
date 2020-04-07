@@ -85,7 +85,6 @@ ___
 * [Maratonas de Programação: Tudo o que Você Precisa Saber (Programador Sagaz)](https://www.youtube.com/watch?v=COweDLKkyiM)
 * [Programming Competitions - Codeforces, Code Jam, ... (Errichto)](https://www.youtube.com/watch?v=cpguolx2oms)
 * [How To Become Red Coder? (Errichto)](https://www.youtube.com/watch?v=y7169jEvb-Y)
-* [Maths for Programmers (FreeCodeCamp)](https://www.youtube.com/playlist?list=PLWKjhJtqVAbndUuYBE5sVViMIvyzp_dB1)
 * [MaratonUSP](https://www.youtube.com/channel/UCB_SQAulqgmQ0Vfww9wzfWA/videos)
 * [Programação Competitiva](https://www.youtube.com/channel/UC1I_DbrWCKU-m4K46Jbc0rg/videos)
 
@@ -97,6 +96,7 @@ ___
 * [ProofWiki](https://proofwiki.org/wiki/Main_Page)
 * [Be a Better Programmer with these 45 Mathematics Courses (Hacker Noon)](https://hackernoon.com/be-a-better-programmer-with-these-40-mathematics-courses-d8ca48a2f8a2)
 * [Coding Math](https://www.youtube.com/user/codingmath)
+* [Maths for Programmers (FreeCodeCamp)](https://www.youtube.com/playlist?list=PLWKjhJtqVAbndUuYBE5sVViMIvyzp_dB1)
 * [The Math Needed for Computer Science (Zach Star)](https://www.youtube.com/watch?v=eSFA1Fp8jcU)
 
 ___
