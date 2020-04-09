@@ -73,6 +73,21 @@ ___
 
 ___
 
+## IDEs
+
+* [CLion](https://www.jetbrains.com/clion/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Geany](https://www.geany.org/)
+* [CodeBlocks](http://www.codeblocks.org/)
+* [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)
+* [Spyder](https://www.spyder-ide.org/)
+* [Idle](https://www.python.org/downloads/)
+* [Eclipse](https://www.eclipse.org/downloads/packages/)
+* [NetBeans](https://netbeans.org/features/)
+* [Intellij IDEA](https://www.jetbrains.com/idea/download/)
+
+___
+
 ## POSTS
 
 * [An awesome list for competitive programming (Codeforces)](https://codeforces.com/blog/entry/23054)
