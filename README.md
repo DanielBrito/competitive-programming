@@ -64,6 +64,7 @@ ___
 * [Algorithms (Robert Sedgewick)](https://algs4.cs.princeton.edu/home/)
 * [Programming Challenges (Steven Skiena)](http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf)
 * [Think in C++ (Bruce Eckel)](https://www.micc.unifi.it/bertini/download/programmazione/TICPP-2nd-ed-Vol-two-printed.pdf)
+* [Competitive Programming](https://cpbook.net)
 
 ___
 
