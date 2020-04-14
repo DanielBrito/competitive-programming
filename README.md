@@ -93,6 +93,9 @@ ___
 
 * [An awesome list for competitive programming (Codeforces)](https://codeforces.com/blog/entry/23054)
 * [Coding Interview Glossary (Interview Cake)](https://www.interviewcake.com/glossary)
+* [Time and Space Complexity Tutorials & Notes (HackerEarth)](https://www.hackerearth.com/pt-br/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/)
+* [Competitive Programming - Computational Complexity (TopCoder)](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-1/)
+* [Analysis of Algorithms - Big-O analysis (GeeksforGeeks)](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)
 
 ___
 
@@ -103,6 +106,8 @@ ___
 * [How To Become Red Coder? (Errichto)](https://www.youtube.com/watch?v=y7169jEvb-Y)
 * [MaratonUSP](https://www.youtube.com/channel/UCB_SQAulqgmQ0Vfww9wzfWA/videos)
 * [Programação Competitiva](https://www.youtube.com/channel/UC1I_DbrWCKU-m4K46Jbc0rg/videos)
+* [Introduction to Big O Notation and Time Complexity (CS Dojo)](https://www.youtube.com/watch?v=D6xkbGLQesk)
+* [Deeply Understanding Asymptotic Analysis (Back To Back SWE)](https://www.youtube.com/playlist?list=PLiQ766zSC5jNlilqsJSiVcvIMxTdMlJbl)
 
 ___
 
