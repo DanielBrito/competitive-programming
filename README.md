@@ -108,7 +108,7 @@ ___
 * [Programação Competitiva](https://www.youtube.com/channel/UC1I_DbrWCKU-m4K46Jbc0rg/videos)
 * [Introduction to Big O Notation and Time Complexity (CS Dojo)](https://www.youtube.com/watch?v=D6xkbGLQesk)
 * [Deeply Understanding Asymptotic Analysis (Back To Back SWE)](https://www.youtube.com/playlist?list=PLiQ766zSC5jNlilqsJSiVcvIMxTdMlJbl)
-* [Dynamic Programming, Recursion, & Backtracking (Back To Back SWE)(https://www.youtube.com/playlist?list=PLiQ766zSC5jM2OKVr8sooOuGgZkvnOCTI)]
+* [Dynamic Programming, Recursion, & Backtracking (Back To Back SWE)](https://www.youtube.com/playlist?list=PLiQ766zSC5jM2OKVr8sooOuGgZkvnOCTI)
 * [Graphs, Greedy Algorithms, & Other (Back To Back SWE)](https://www.youtube.com/playlist?list=PLiQ766zSC5jNlilqsJSiVcvIMxTdMlJbl)
 
 ___
