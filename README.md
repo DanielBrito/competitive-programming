@@ -96,6 +96,7 @@ ___
 * [Time and Space Complexity Tutorials & Notes (HackerEarth)](https://www.hackerearth.com/pt-br/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/)
 * [Competitive Programming - Computational Complexity (TopCoder)](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-1/)
 * [Analysis of Algorithms - Big-O analysis (GeeksforGeeks)](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)
+* [T-414-ÁFLV: A Competitive Programming Course](https://algo.is/t-414-aflv-competitive-programming-course-2016/)
 
 ___
 
@@ -127,3 +128,4 @@ ___
 ## OTHER HELPFUL CONTENT
 
 * [Cracking the Coding Skills (Handout)](https://miro.medium.com/max/5100/1*UsPt4i_tM99tWVWa2aa29g.png)
+* [AlgoWiki](https://wiki.algo.is/)
