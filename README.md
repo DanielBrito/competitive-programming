@@ -56,6 +56,7 @@ When I feel inspired, I try to document these codes (exploring time and space co
 - [Olimpíada Brasileira de Informática](https://olimpiada.ic.unicamp.br/pratique/)
 - [Kaggle Competitions](https://www.kaggle.com/competitions)
 - [Maratona de Programação](http://maratona.ime.usp.br/)
+- [International Collegiate Programming Contest](https://icpc.baylor.edu/)
 
 ---
 
