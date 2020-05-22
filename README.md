@@ -8,9 +8,11 @@ I try really hard to find the most efficient solution, but (unfortunately) somet
 
 When I feel inspired, I try to document these codes (exploring time and space complexity) to facilitate the understanding of what I'm doing. You can also check this [playlist](https://www.youtube.com/playlist?list=PLckh4uyjCOmjvKSfrDDJ6oh1lIF3qJ3hM) that I've created on Youtube (to try) to explain my coding process.
 
+![Topics](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Competitive-Programming.jpg)
+
 ---
 
-## PROGRAMMING PLATFORMS
+## :computer: PROGRAMMING PLATFORMS
 
 - [Aizu Online Judge](http://judge.u-aizu.ac.jp/onlinejudge/)
 - [AlgoDaily](https://algodaily.com/)
@@ -46,7 +48,7 @@ When I feel inspired, I try to document these codes (exploring time and space co
 
 ---
 
-## CONTESTS
+## :checkered_flag: CONTESTS
 
 - [Code Jam](https://codingcompetitions.withgoogle.com/codejam)
 - [DWITE](http://dwite.org/)
@@ -60,7 +62,7 @@ When I feel inspired, I try to document these codes (exploring time and space co
 
 ---
 
-## BOOKS
+## :books: BOOKS
 
 - [The Art of Computer Programming - Vol. I II III IV (Donald Knuth)](https://docero.com.br/doc/eenxxn)
 - [Algorithms (Robert Sedgewick)](https://algs4.cs.princeton.edu/home/)
@@ -70,13 +72,13 @@ When I feel inspired, I try to document these codes (exploring time and space co
 
 ---
 
-## CODES
+## :toolbox: CODES
 
 - [Competitive Programming Algorithms](https://cp-algorithms.com/)
 
 ---
 
-## IDEs
+## :abacus: IDEs
 
 - [CLion](https://www.jetbrains.com/clion/)
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -91,7 +93,7 @@ When I feel inspired, I try to document these codes (exploring time and space co
 
 ---
 
-## POSTS
+## :page_with_curl: POSTS
 
 - [An awesome list for competitive programming (Codeforces)](https://codeforces.com/blog/entry/23054)
 - [Coding Interview Glossary (Interview Cake)](https://www.interviewcake.com/glossary)
@@ -102,7 +104,7 @@ When I feel inspired, I try to document these codes (exploring time and space co
 
 ---
 
-## VIDEOS
+## :cinema: VIDEOS
 
 - [Maratonas de Programação: Tudo o que Você Precisa Saber (Programador Sagaz)](https://www.youtube.com/watch?v=COweDLKkyiM)
 - [Programming Competitions - Codeforces, Code Jam, ... (Errichto)](https://www.youtube.com/watch?v=cpguolx2oms)
@@ -116,7 +118,7 @@ When I feel inspired, I try to document these codes (exploring time and space co
 
 ---
 
-## MATHEMATICS
+## :infinity: MATHEMATICS
 
 - [Wolfram MathWorld](http://mathworld.wolfram.com/)
 - [ProofWiki](https://proofwiki.org/wiki/Main_Page)
@@ -127,7 +129,7 @@ When I feel inspired, I try to document these codes (exploring time and space co
 
 ---
 
-## OTHER HELPFUL CONTENT
+## :thumbsup: OTHER HELPFUL CONTENT
 
 - [Cracking the Coding Skills (Handout)](https://miro.medium.com/max/5100/1*UsPt4i_tM99tWVWa2aa29g.png)
 - [AlgoWiki](https://wiki.algo.is/)
