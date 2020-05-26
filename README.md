@@ -90,6 +90,7 @@ When I feel inspired, I try to document these codes (exploring time and space co
 - [Eclipse](https://www.eclipse.org/downloads/packages/)
 - [NetBeans](https://netbeans.org/features/)
 - [Intellij IDEA](https://www.jetbrains.com/idea/download/)
+- [CodeLite](https://codelite.org/)
 
 ---
 
