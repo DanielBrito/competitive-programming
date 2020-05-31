@@ -55,7 +55,7 @@ int main(){
 
                 for(k=0; k<spaces-countDigits(j); k++) printf(" ");
 
-                printf("%d ", j);
+                cout << j << " ";
             }
 
             cout << "\n";
