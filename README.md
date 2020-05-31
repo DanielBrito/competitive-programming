@@ -133,4 +133,5 @@ When I feel inspired, I try to document these codes (exploring time and space co
 ## :thumbsup: OTHER HELPFUL CONTENT
 
 - [Cracking the Coding Skills (Handout)](https://miro.medium.com/max/5100/1*UsPt4i_tM99tWVWa2aa29g.png)
+- [The C++ Resources Network](http://www.cplusplus.com/)
 - [AlgoWiki](https://wiki.algo.is/)
