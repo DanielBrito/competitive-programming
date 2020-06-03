@@ -24,6 +24,8 @@ When I feel inspired, I try to document these codes (exploring time and space co
 - [CodeSignal](https://codesignal.com/)
 - [Codewars](https://www.codewars.com/)
 - [Codingame](https://www.codingame.com/home)
+- [Code Submission Evaluation System](https://cses.fi/)
+- [CS Academy](https://csacademy.com/)
 - [Daily Coding Problems](https://www.dailycodingproblem.com/)
 - [DevSkill](https://www.devskill.com/)
 - [E-Olymp](https://www.e-olymp.com/en/)
@@ -59,6 +61,7 @@ When I feel inspired, I try to document these codes (exploring time and space co
 - [Kaggle Competitions](https://www.kaggle.com/competitions)
 - [Maratona de Programação](http://maratona.ime.usp.br/)
 - [International Collegiate Programming Contest](https://icpc.baylor.edu/)
+- [Facebook Hacker Cup](https://www.facebook.com/hackercup/register)
 
 ---
 
@@ -66,9 +69,12 @@ When I feel inspired, I try to document these codes (exploring time and space co
 
 - [The Art of Computer Programming - Vol. I II III IV (Donald Knuth)](https://docero.com.br/doc/eenxxn)
 - [Algorithms (Robert Sedgewick)](https://algs4.cs.princeton.edu/home/)
-- [Programming Challenges (Steven Skiena)](http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf)
+- [Programming Challenges: The Programming Contest Training Manual (Steven Skiena)](http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf)
 - [Think in C++ (Bruce Eckel)](https://www.micc.unifi.it/bertini/download/programmazione/TICPP-2nd-ed-Vol-two-printed.pdf)
-- [Competitive Programming](https://cpbook.net)
+- [Competitive Programming (Halim)](http://www.sso.sy/sites/default/files/competitive%20programming%203_1.pdf)
+- [Guide to Competitive Programming - Learning and Improving Algorithms Through Contests (Antti Laaksonen)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-72547-5.pdf)
+- [Looking for a Challenge 2](https://www.mimuw.edu.pl/~idziaszek/algonotes/looking-for-a-challenge-2-en.pdf)
+- [The Algorithm Design Manual (Steven S. Skiena)](http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf)
 
 ---
 
@@ -135,3 +141,4 @@ When I feel inspired, I try to document these codes (exploring time and space co
 - [Cracking the Coding Skills (Handout)](https://miro.medium.com/max/5100/1*UsPt4i_tM99tWVWa2aa29g.png)
 - [The C++ Resources Network](http://www.cplusplus.com/)
 - [AlgoWiki](https://wiki.algo.is/)
+- [IOI Syllabus](https://ioinformatics.org/files/ioi-syllabus-2019.pdf)
