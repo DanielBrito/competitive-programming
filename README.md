@@ -1,14 +1,14 @@
 # Competitive Programming
 
-I think competitive programming is a great opportunity for those who want to improve their skills because it pushes us to think creatively, and helps us to put into practice that math knowledge (we thought we'd never use) in order to solve real-world problems.
+I think competitive programming is a great opportunity for those who want to improve their skills, because it pushes us to think creatively, and helps us to put into practice our math knowledge (we thought we'd never use) in order to solve real-world problems.
 
-These are my solutions to some challenges from several programming platforms, contests, and interviews.
+[Here are my solutions](https://github.com/DanielBrito/competitive-programming/tree/master/Solutions) to some challenges from several programming platforms, contests, and interviews.
 
-I try really hard to find the most efficient solution, but (unfortunately) sometimes I just really can't (and appeal to brute force) because I'm still learning the power of each data structure, technique, [language](https://github.com/DanielBrito/learning-languages), and paradigm (and I'll always be). However, after some research, I always end up discovering awesome articles and [inspiring codes](https://github.com/DanielBrito/programming-problems/tree/master/Inspiring%20Codes) which improve my programming skills.
+I try really hard to find the most efficient solution, but (unfortunately) sometimes I just really can't (and appeal to brute force), because I'm still learning the power of each data structure, technique, [language](https://github.com/DanielBrito/learning-languages), and paradigm (and I'll always be). However, after some research, I always end up discovering awesome articles and [inspiring codes](https://github.com/DanielBrito/programming-problems/tree/master/Inspiring%20Codes) which improve my programming skills.
 
 When I feel inspired, I try to document these codes (exploring time and space complexity) to facilitate the understanding of what I'm doing.
 
-You can also check this [playlist](https://www.youtube.com/playlist?list=PLckh4uyjCOmjvKSfrDDJ6oh1lIF3qJ3hM) that I've created on Youtube (to try) to explain my coding process.
+You can also check this [playlist](https://www.youtube.com/playlist?list=PLckh4uyjCOmjvKSfrDDJ6oh1lIF3qJ3hM) that I've maintaining on Youtube (to try) to explain my coding process.
 
 Currently, I integrate the [GEMP - UFC/CRT](https://github.com/GEMP-UFC-Crateus/uri), a group of studies from college that analyzes [URI Online Judge](https://www.urionlinejudge.com.br/) problems and designs algorithms to solve them. Moreover, we also participate in contests within the platform.
 
