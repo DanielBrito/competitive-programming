@@ -1,5 +1,6 @@
+// https://neps.academy/problem/4
+
 #include <iostream>
-#include <cstring>
 
 using namespace std;
 
