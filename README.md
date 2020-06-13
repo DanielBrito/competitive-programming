@@ -146,3 +146,4 @@ Currently, I integrate the [GEMP - UFC/CRT](https://github.com/GEMP-UFC-Crateus/
 - [The C++ Resources Network](http://www.cplusplus.com/)
 - [AlgoWiki](https://wiki.algo.is/)
 - [IOI Syllabus](https://ioinformatics.org/files/ioi-syllabus-2019.pdf)
+- [Ementa OBI](https://olimpiada.ic.unicamp.br/info/ementa/geral/)
