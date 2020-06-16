@@ -8,7 +8,7 @@ I try really hard to find the most efficient solution, but (unfortunately) somet
 
 When I feel inspired, I try to document these codes (exploring time and space complexity) to facilitate the understanding of what I'm doing.
 
-You can also check this [playlist](https://www.youtube.com/playlist?list=PLckh4uyjCOmjvKSfrDDJ6oh1lIF3qJ3hM) that I've maintaining on Youtube (to try) to explain my coding process.
+You can also check this [playlist](https://www.youtube.com/playlist?list=PLckh4uyjCOmjvKSfrDDJ6oh1lIF3qJ3hM) that I've been maintaining on Youtube (to try) to explain my coding process.
 
 Currently, I integrate the [GEMP - UFC/CRT](https://github.com/GEMP-UFC-Crateus/), a group of studies from college that analyzes [URI Online Judge](https://www.urionlinejudge.com.br/) problems and designs algorithms to solve them. Moreover, we also participate in contests within the platform.
 
