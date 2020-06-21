@@ -2,7 +2,7 @@
 
 // First of all, let's analyze some patterns in the problem, taking as an example this case:
 
-// 3           -> N value
+//  3          -> N value
 
 //  3  2  1    -> Possbile permutation
 //  2  1  3    -> Possbile permutation
@@ -27,7 +27,7 @@ using namespace std;
 
 int main(){
   
-  int n, i, j, fat=1;
+  int n, i, j, x, fat=1;
   
   cin >> n;
   
@@ -35,42 +35,33 @@ int main(){
   // It'll give us the total number of permutations.
   for(i=1; i<=n; i++) fat *= i;
   
-  // Allocating memory to store the values in a matrix[fat][n]:
-  int **m = (int**)malloc(fat*sizeof(int*));
-  
-  for(i=0; i<fat; i++) {
-    
-    m[i] = (int*)malloc(n*sizeof(int));
-  }
-  
   // This vector will be used to store the sum of the values of each column:
   vector<int> subtotal(n, 0);
 
-  // Receiving the values and storing them in the matrix.
   // Notice that we use 'fat-1' because there is a missing permutation.
   for(i=0; i<fat-1; i++){
     
     for (j=0; j<n; j++){
       
-      cin >> m[i][j];
+      cin >> x;
       
-      // Adding up the values of each column:
-      subtotal[j] += m[i][j];
+      // Notice that we don't need to store the hole matrix, just the sum of the values of each 'column': 
+      subtotal[j] += x;
     }
   }
   
   // This vector will be used to store the numbers of the missing permutation, as explained before:
   vector<int> res;
   
+  // Here, we use the concept of Arithmetic Progression.
   // This will help us to calulate the 'total' sum of a column with all the possible permutations:
   int apSum = ((1+n)*n)/2;
   
-  // This loop is used to traverse 'total' and 'subtotal', to calculate their difference:
+  // This loop is used to traverse 'subtotal' and subtract its value from 'total', to calculate their difference:
   for(i=0; i<n; i++){
     
-    // I struggled to figure out how to find the sum of the values of a column as if it has all the permutations.
-    // Finally, I ended up with this formula: apSum*(fat/n).
-    // Then, we just calculate the difference.
+    // I struggled to figure out how to find the sum of the values of a column as if it has all the permutations (total).
+    // Finally, I ended up with this formula: apSum*(fat/n). So, we just calculate the difference.
     res.push_back(apSum*(fat/n)-subtotal[i]);
   }
 
