@@ -112,6 +112,7 @@ Currently, I integrate the [GEMP - UFC/CRT](https://github.com/GEMP-UFC-Crateus/
 - [Competitive Programming - Computational Complexity (TopCoder)](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-1/)
 - [Analysis of Algorithms - Big-O analysis (GeeksforGeeks)](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)
 - [T-414-ÁFLV: A Competitive Programming Course](https://algo.is/t-414-aflv-competitive-programming-course-2016/)
+- [The Simplicity of Computational Complexity (Hacker Noon)](https://hackernoon.com/the-simplicity-of-computational-complexity-street-fighter-ii-vs-the-big-o-67786db7653c)
 
 ---
 
@@ -147,3 +148,4 @@ Currently, I integrate the [GEMP - UFC/CRT](https://github.com/GEMP-UFC-Crateus/
 - [AlgoWiki](https://wiki.algo.is/)
 - [IOI Syllabus](https://ioinformatics.org/files/ioi-syllabus-2019.pdf)
 - [Ementa OBI](https://olimpiada.ic.unicamp.br/info/ementa/geral/)
+- [Understanding Program Efficiency (MIT)](https://github.com/DanielBrito/intro-to-computer-science-python/blob/master/Lecture%2011/lec11_complexity.pdf)
