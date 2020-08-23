@@ -122,6 +122,8 @@ Currently, I integrate the [GEMP - UFC/CRT](https://github.com/GEMP-UFC-Crateus/
 - [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
 - [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
 - [Gennady Korotkevich](https://www.youtube.com/channel/UCkySD00cmDWYHXA31hqRYRw)
+- [MaratonUSP](https://www.youtube.com/channel/UCB_SQAulqgmQ0Vfww9wzfWA)
+- [Programação Competitiva](https://www.youtube.com/channel/UC1I_DbrWCKU-m4K46Jbc0rg)
 
 ---
 
@@ -130,8 +132,6 @@ Currently, I integrate the [GEMP - UFC/CRT](https://github.com/GEMP-UFC-Crateus/
 - [Maratonas de Programação: Tudo o que Você Precisa Saber (Programador Sagaz)](https://www.youtube.com/watch?v=COweDLKkyiM)
 - [Programming Competitions - Codeforces, Code Jam, ... (Errichto)](https://www.youtube.com/watch?v=cpguolx2oms)
 - [How To Become Red Coder? (Errichto)](https://www.youtube.com/watch?v=y7169jEvb-Y)
-- [MaratonUSP](https://www.youtube.com/channel/UCB_SQAulqgmQ0Vfww9wzfWA/videos)
-- [Programação Competitiva](https://www.youtube.com/channel/UC1I_DbrWCKU-m4K46Jbc0rg/videos)
 - [Introduction to Big O Notation and Time Complexity (CS Dojo)](https://www.youtube.com/watch?v=D6xkbGLQesk)
 - [Deeply Understanding Asymptotic Analysis (Back To Back SWE)](https://www.youtube.com/playlist?list=PLiQ766zSC5jNlilqsJSiVcvIMxTdMlJbl)
 - [Dynamic Programming, Recursion, & Backtracking (Back To Back SWE)](https://www.youtube.com/playlist?list=PLiQ766zSC5jM2OKVr8sooOuGgZkvnOCTI)
