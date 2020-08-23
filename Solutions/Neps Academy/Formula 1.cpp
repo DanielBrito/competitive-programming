@@ -1,63 +1,67 @@
-// https://neps.academy/lesson/155
+// https://neps.academy/lesson/156
 
 #include <bits/stdc++.h>
 
+#define MAX 103
+
 using namespace std;
-
-struct pais{
-  
-  int id, ouro, prata, bronze;
-};
-
-typedef struct pais Pais;
-
-int compara(Pais a, Pais b){
-  
-  if(a.ouro!=b.ouro) return a.ouro > b.ouro;
-  
-  if(a.prata!=b.prata) return a.prata > b.prata;
-  
-  if(a.bronze!=b.bronze) return a.bronze > b.bronze;
-  
-  return a.id < b.id;
-}
 
 int main(){
   
-  ios_base::sync_with_stdio(false);
-  cin.tie(NULL);
-  cout.tie(0);
+  int g, p, s, i, j, k;
   
-  int n, m, i, o, p, b;
-  Pais paises[101];
-  
-  cin >> n >> m;
-  
-  for(int i=0; i<n; i++){
+  while(cin >> g >> p && g!=0 && p!=0){
     
-    paises[i].ouro = 0;
-    paises[i].prata = 0;
-    paises[i].bronze = 0;
-    paises[i].id = i+1;
+    int colocacaoGeral[MAX][MAX], podio[MAX], sistemaPontuacao[MAX];
+    
+    for(i=1; i<=g; i++){
+      
+      for(j=1; j<=p; j++){
+        
+        cin >> colocacaoGeral[i][j];
+      }
+    }
+    
+    cin >> s;
+    
+    while(s--){
+      
+      memset(sistemaPontuacao, 0, sizeof(sistemaPontuacao));
+      memset(podio, 0, sizeof(podio));
+      
+      cin >> k;
+      
+      for(i=1; i<=k; i++){
+        
+        cin >> sistemaPontuacao[i];
+      }
+      
+      for(i=1; i<=g; i++){
+        
+        for(j=1; j<=p; j++){
+          
+          podio[j] += sistemaPontuacao[colocacaoGeral[i][j]];
+        }
+      }
+      
+      int pontuacaoMaxima = 0;
+      
+      for(i=1; i<=p; i++){
+        
+        pontuacaoMaxima = max(pontuacaoMaxima, podio[i]);
+      }
+      
+      for(i=1; i<=p; i++){
+        
+        if(podio[i]==pontuacaoMaxima){
+          
+          cout << i << " ";
+        }
+      }
+      
+      cout << "\n";
+    }
   }
-  
-  for(int i=0; i<m; i++){
-    
-    cin >> o >> p >> b;
-    
-    paises[o-1].ouro++;
-    paises[p-1].prata++;
-    paises[b-1].bronze++;
-  }
-  
-  sort(paises, paises+n, compara);
-  
-  for(i=0; i<n; i++){
-    
-    cout << paises[i].id << " ";
-  }
-  
-  cout << "\n";
   
   return 0;
 }
