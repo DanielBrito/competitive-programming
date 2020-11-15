@@ -24,6 +24,7 @@ Currently, I integrate the [GEMP - UFC/CRT](https://github.com/GEMP-UFC-Crateus/
 - [CheckiO](https://checkio.org/)
 - [CodeChef](https://www.codechef.com/)
 - [Codeforces](https://codeforces.com/)
+- [Code Gym](https://codegym.cc/)
 - [Coderbyte](https://coderbyte.com/)
 - [CodeSignal](https://codesignal.com/)
 - [Codewars](https://www.codewars.com/)
