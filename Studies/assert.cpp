@@ -4,18 +4,23 @@ using namespace std;
 
 void test(){
   
-  vector<int> a = {3, 2, 5, 4, 1}; 
+  vector<int> array = {3, 2, 5, 4, 1}; 
 
-  int x = 10;
-  int y = 15;
+  int x = 10, y = 15;
   
-  sort(a.begin(), a.end());
+  string name = "daniel";
+  
+  sort(array.begin(), array.end());
+  reverse(name.begin(), name.end());
 
-  // pass -> {1, 2, 3, 4, 5} == {1, 2, 3, 4, 5}
-  assert((a==vector<int>{1, 2, 3, 4, 5}));
+  // pass -> sort(array) == {1, 2, 3, 4, 5}
+  assert((array==vector<int>{1, 2, 3, 4, 5}));
   
-  // fail -> 13 != 15
-  assert(x+3==y);
+  // pass -> reverse(name) == "leinad"
+  assert(name=="leinad");
+  
+  // fail -> 10+3 != 15
+  assert(x+3==y && "wrong result");
 }
 
 int main(){
