@@ -6,23 +6,19 @@ int main(int argc, char *argv[]){
 
 	ifstream infile("numbers.txt");
 
-	if (!infile.is_open()) {
-	    return 1;
-	}
+	if (!infile.is_open()) return 1;
 
 	string line;
-	int a, sum=0;
+	int number, sum=0;
 
+	while(getline(infile, line)) {
 
-	while (getline(infile, line)) {
+	  stringstream iss(line);
 
-	    stringstream iss(line);
+	  if(!(iss >> number)) break;
 
-	    if (!(iss >> a)) {
-	        break;
-	    }
-
-	    sum += a;
+	  // Logic:
+	  sum += a;
 	}
 
 	cout << sum << "\n";
