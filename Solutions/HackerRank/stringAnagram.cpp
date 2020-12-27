@@ -24,8 +24,7 @@ vector<int> stringAnagram(vector<string> dictionary, vector<string> query) {
     
     for(int i=0; i<dictionary.size(); i++){
         
-        string word = dictionary[i];
-        it = queryCounter.find(word);
+        it = queryCounter.find(dictionary[i]);
         
         if(it!=queryCounter.end()){
             
