@@ -161,3 +161,4 @@ Currently, I integrate the [GEMP - UFC/CRT](https://github.com/GEMP-UFC-Crateus/
 - [Ementa OBI](https://olimpiada.ic.unicamp.br/info/ementa/geral/)
 - [Understanding Program Efficiency (MIT)](https://github.com/DanielBrito/intro-to-computer-science-python/blob/master/Lecture%2011/lec11_complexity.pdf)
 - [Awesone competitive programming](https://github.com/lnishan/awesome-competitive-programming)
+- [ACM/ICPC - C++ Cheat Sheet](https://www.cs.mun.ca/~dchurchill/pc/pdf/algorithms_1.pdf)
