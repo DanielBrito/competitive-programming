@@ -74,7 +74,7 @@ Currently, I integrate the [GEMP - UFC/CRT](https://github.com/GEMP-UFC-Crateus/
 
 - [Guide to Competitive Programming - Learning and Improving Algorithms Through Contests (Antti Laaksonen)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-72547-5.pdf)
 - [Programming Challenges: The Programming Contest Training Manual (Steven Skiena)](http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf)
-- [Competitive Programming (Halim)](http://www.sso.sy/sites/default/files/competitive%20programming%203_1.pdf)
+- [Competitive Programming](https://cpbook.net/)
 - [The Algorithm Design Manual (Steven S. Skiena)](http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf)
 - [Algorithms (Robert Sedgewick)](https://algs4.cs.princeton.edu/home/)
 - [Introduction to Algorithms (Thomas H. Cormen)](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
