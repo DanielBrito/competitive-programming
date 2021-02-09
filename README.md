@@ -10,7 +10,7 @@ When I feel inspired, I try to document these codes (exploring time and space co
 
 You can also check this [playlist](https://www.youtube.com/playlist?list=PLckh4uyjCOmjvKSfrDDJ6oh1lIF3qJ3hM) that I've been maintaining on Youtube (to try) to explain my coding process.
 
-Currently, I integrate the [GEMP - UFC/CRT](https://github.com/GEMP-UFC-Crateus/), a group of studies from college that analyzes [URI Online Judge](https://www.urionlinejudge.com.br/) problems and designs algorithms to solve them. Moreover, we also participate in contests within the platform.
+Currently, I integrate the [GEMP - UFC/CRT](https://github.com/GEMP-UFC-Crateus/), a group of studies from college, that solves [URI Online Judge](https://www.urionlinejudge.com.br/) problems, and also participates in contests within the platform.
 
 ![Topics](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Competitive-Programming.jpg)
 
