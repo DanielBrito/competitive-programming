@@ -79,7 +79,7 @@ Currently, I integrate the [GEMP - UFC/CRT](https://github.com/GEMP-UFC-Crateus/
 - [Algorithms (Robert Sedgewick)](https://algs4.cs.princeton.edu/home/)
 - [Introduction to Algorithms (Thomas H. Cormen)](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
 - [Think in C++ (Bruce Eckel)](https://www.micc.unifi.it/bertini/download/programmazione/TICPP-2nd-ed-Vol-two-printed.pdf)
-- [Looking for a Challenge 2](https://www.mimuw.edu.pl/~idziaszek/algonotes/looking-for-a-challenge-2-en.pdf)
+- [Looking for a Challenge 2 (University of Warsaw)](https://www.mimuw.edu.pl/~idziaszek/algonotes/looking-for-a-challenge-2-en.pdf)
 
 ---
 
@@ -105,7 +105,7 @@ Currently, I integrate the [GEMP - UFC/CRT](https://github.com/GEMP-UFC-Crateus/
 
 ---
 
-## :page_with_curl: POSTS
+## :page_with_curl: ARTICLES
 
 - [An awesome list for competitive programming (Codeforces)](https://codeforces.com/blog/entry/23054)
 - [Coding Interview Glossary (Interview Cake)](https://www.interviewcake.com/glossary)
