@@ -72,15 +72,14 @@ Currently, I integrate the [GEMP - UFC/CRT](https://github.com/GEMP-UFC-Crateus/
 
 ## :books: BOOKS
 
-- [The Art of Computer Programming - Vol. I II III IV (Donald Knuth)](https://docero.com.br/doc/eenxxn)
-- [Algorithms (Robert Sedgewick)](https://algs4.cs.princeton.edu/home/)
-- [Programming Challenges: The Programming Contest Training Manual (Steven Skiena)](http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf)
-- [Think in C++ (Bruce Eckel)](https://www.micc.unifi.it/bertini/download/programmazione/TICPP-2nd-ed-Vol-two-printed.pdf)
-- [Competitive Programming (Halim)](http://www.sso.sy/sites/default/files/competitive%20programming%203_1.pdf)
 - [Guide to Competitive Programming - Learning and Improving Algorithms Through Contests (Antti Laaksonen)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-72547-5.pdf)
-- [Looking for a Challenge 2](https://www.mimuw.edu.pl/~idziaszek/algonotes/looking-for-a-challenge-2-en.pdf)
+- [Programming Challenges: The Programming Contest Training Manual (Steven Skiena)](http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf)
+- [Competitive Programming (Halim)](http://www.sso.sy/sites/default/files/competitive%20programming%203_1.pdf)
 - [The Algorithm Design Manual (Steven S. Skiena)](http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf)
+- [Algorithms (Robert Sedgewick)](https://algs4.cs.princeton.edu/home/)
 - [Introduction to Algorithms (Thomas H. Cormen)](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
+- [Think in C++ (Bruce Eckel)](https://www.micc.unifi.it/bertini/download/programmazione/TICPP-2nd-ed-Vol-two-printed.pdf)
+- [Looking for a Challenge 2](https://www.mimuw.edu.pl/~idziaszek/algonotes/looking-for-a-challenge-2-en.pdf)
 
 ---
 
