@@ -34,6 +34,7 @@ Currently, I integrate the [GEMP - UFC/CRT](https://github.com/GEMP-UFC-Crateus/
 - [Daily Coding Problems](https://www.dailycodingproblem.com/)
 - [DevSkill](https://www.devskill.com/)
 - [E-Olymp](https://www.e-olymp.com/en/)
+- [Edabit](https://edabit.com/)
 - [Exercism](https://exercism.io/)
 - [Fuzhou University OnlineJudge](http://acm.fzu.edu.cn/)
 - [GeeksForGeeks](https://www.geeksforgeeks.org/)
