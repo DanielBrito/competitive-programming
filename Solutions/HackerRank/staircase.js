@@ -1,3 +1,5 @@
+/* https://www.hackerrank.com/challenges/staircase/problem */
+
 function staircase(n) {
   let count = 1;
   let answer = "";
