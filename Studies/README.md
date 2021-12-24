@@ -1,3 +1,3 @@
 # Studies
 
-Algorithmic analysis and languages resources.
+Algorithmic analysis and study resources.

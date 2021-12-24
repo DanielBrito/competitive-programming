@@ -4,7 +4,7 @@ I think competitive programming is a great opportunity for those who want to imp
 
 [Here are my solutions](https://github.com/DanielBrito/competitive-programming/tree/master/Solutions) to some challenges from several programming platforms, contests, and interviews.
 
-I try really hard to find the most efficient solution, but (unfortunately) sometimes I just really can't (and appeal to brute force), because I'm still learning the power of each data structure, technique, [language](https://github.com/DanielBrito/learning-languages), and paradigm (and I'll always be). However, after some research, I always end up discovering awesome articles and [inspiring codes](https://github.com/DanielBrito/programming-problems/tree/master/Inspiring%20Codes) which improve my programming skills.
+I try really hard to find the most efficient solution, but (unfortunately) sometimes I just really can't (and appeal to brute force), because I'm still learning the power of each data structure, technique, language, and paradigm (and I'll always be). However, after some research, I always end up discovering awesome articles and [inspiring codes](https://github.com/DanielBrito/programming-problems/tree/master/Inspiring%20Codes) which improve my programming skills.
 
 When I feel inspired, I try to document these codes (exploring time and space complexity) to facilitate the understanding of what I'm doing.
 
@@ -16,7 +16,7 @@ Currently, I integrate the [GEMP - UFC/CRT](https://github.com/GEMP-UFC-Crateus/
 
 ---
 
-## :computer: PROGRAMMING PLATFORMS
+## :computer: Programming Platforms
 
 - [Aizu Online Judge](http://judge.u-aizu.ac.jp/onlinejudge/)
 - [AlgoDaily](https://algodaily.com/)
@@ -56,7 +56,7 @@ Currently, I integrate the [GEMP - UFC/CRT](https://github.com/GEMP-UFC-Crateus/
 
 ---
 
-## :checkered_flag: CONTESTS
+## :checkered_flag: Contests
 
 - [Code Jam](https://codingcompetitions.withgoogle.com/codejam)
 - [DWITE](http://dwite.org/)
@@ -71,20 +71,21 @@ Currently, I integrate the [GEMP - UFC/CRT](https://github.com/GEMP-UFC-Crateus/
 
 ---
 
-## :books: BOOKS
+## :books: Books
 
-- [Guide to Competitive Programming - Learning and Improving Algorithms Through Contests (Antti Laaksonen)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-72547-5.pdf)
-- [Programming Challenges: The Programming Contest Training Manual (Steven Skiena)](http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf)
+- [Guide to Competitive Programming - Learning and Improving Algorithms Through Contests](https://link.springer.com/content/pdf/10.1007%2F978-3-319-72547-5.pdf) (Antti Laaksonen)
+- [Programming Challenges: The Programming Contest Training Manual](http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf) (Steven Skiena)
 - [Competitive Programming](https://cpbook.net/)
-- [The Algorithm Design Manual (Steven S. Skiena)](http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf)
-- [Algorithms (Robert Sedgewick)](https://algs4.cs.princeton.edu/home/)
-- [Introduction to Algorithms (Thomas H. Cormen)](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
-- [Think in C++ (Bruce Eckel)](https://www.micc.unifi.it/bertini/download/programmazione/TICPP-2nd-ed-Vol-two-printed.pdf)
-- [Looking for a Challenge 2 (University of Warsaw)](https://www.mimuw.edu.pl/~idziaszek/algonotes/looking-for-a-challenge-2-en.pdf)
+- [The Algorithm Design Manual](http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf) (Steven Skiena)
+- [Algorithms](https://algs4.cs.princeton.edu/home/) (Robert Sedgewick)
+- [Introduction to Algorithms](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf) (Thomas Cormen)
+- [Think in C++](https://www.micc.unifi.it/bertini/download/programmazione/TICPP-2nd-ed-Vol-two-printed.pdf) (Bruce Eckel)
+- [Looking for a Challenge 2](https://www.mimuw.edu.pl/~idziaszek/algonotes/looking-for-a-challenge-2-en.pdf) (University of Warsaw)
+- [Cracking the Coding Interview](https://www.amazon.com.br/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) (Gayle McDowell)
 
 ---
 
-## :toolbox: CODES
+## :toolbox: Codes
 
 - [Competitive Programming Algorithms](https://cp-algorithms.com/)
 
@@ -106,20 +107,20 @@ Currently, I integrate the [GEMP - UFC/CRT](https://github.com/GEMP-UFC-Crateus/
 
 ---
 
-## :page_with_curl: ARTICLES
+## :page_with_curl: Articles
 
-- [An awesome list for competitive programming (Codeforces)](https://codeforces.com/blog/entry/23054)
-- [Coding Interview Glossary (Interview Cake)](https://www.interviewcake.com/glossary)
-- [Time and Space Complexity Tutorials & Notes (HackerEarth)](https://www.hackerearth.com/pt-br/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/)
-- [Competitive Programming - Computational Complexity (TopCoder)](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-1/)
-- [Analysis of Algorithms - Big-O analysis (GeeksforGeeks)](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)
+- [An awesome list for competitive programming](https://codeforces.com/blog/entry/23054) (Codeforces)
+- [Coding Interview Glossary](https://www.interviewcake.com/glossary) (Interview Cake)
+- [Time and Space Complexity Tutorials & Notes](https://www.hackerearth.com/pt-br/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/) (HackerEarth)
+- [Competitive Programming - Computational Complexity](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-1/) (TopCoder)
+- [Analysis of Algorithms - Big-O analysis](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/) (GeeksforGeeks)
 - [T-414-ÁFLV: A Competitive Programming Course](https://algo.is/t-414-aflv-competitive-programming-course-2016/)
-- [The Simplicity of Computational Complexity (Hacker Noon)](https://hackernoon.com/the-simplicity-of-computational-complexity-street-fighter-ii-vs-the-big-o-67786db7653c)
-- [Top 10 Algorithms and Data Structures for Competitive Programming (GeeksForGeeks)](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)
+- [The Simplicity of Computational Complexity](https://hackernoon.com/the-simplicity-of-computational-complexity-street-fighter-ii-vs-the-big-o-67786db7653c) (Hacker Noon)
+- [Top 10 Algorithms and Data Structures for Competitive Programming](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/) (GeeksForGeeks)
 
 ---
 
-## :tv: CHANNELS
+## :tv: Channels
 
 - [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
 - [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
@@ -129,36 +130,36 @@ Currently, I integrate the [GEMP - UFC/CRT](https://github.com/GEMP-UFC-Crateus/
 
 ---
 
-## :clapper: VIDEOS
+## :clapper: Videos
 
-- [Maratonas de Programação: Tudo o que Você Precisa Saber (Programador Sagaz)](https://www.youtube.com/watch?v=COweDLKkyiM)
-- [Programming Competitions - Codeforces, Code Jam, ... (Errichto)](https://www.youtube.com/watch?v=cpguolx2oms)
+- [Maratonas de Programação: Tudo o que Você Precisa Saber](https://www.youtube.com/watch?v=COweDLKkyiM) (Programador Sagaz)
+- [Programming Competitions - Codeforces, Code Jam, ...](https://www.youtube.com/watch?v=cpguolx2oms) (Errichto)
 - [How To Become Red Coder? (Errichto)](https://www.youtube.com/watch?v=y7169jEvb-Y)
-- [Introduction to Big O Notation and Time Complexity (CS Dojo)](https://www.youtube.com/watch?v=D6xkbGLQesk)
-- [Deeply Understanding Asymptotic Analysis (Back To Back SWE)](https://www.youtube.com/playlist?list=PLiQ766zSC5jNlilqsJSiVcvIMxTdMlJbl)
-- [Dynamic Programming, Recursion, & Backtracking (Back To Back SWE)](https://www.youtube.com/playlist?list=PLiQ766zSC5jM2OKVr8sooOuGgZkvnOCTI)
-- [Graphs, Greedy Algorithms, & Other (Back To Back SWE)](https://www.youtube.com/playlist?list=PLiQ766zSC5jNlilqsJSiVcvIMxTdMlJbl)
+- [Introduction to Big O Notation and Time Complexity](https://www.youtube.com/watch?v=D6xkbGLQesk) (CS Dojo)
+- [Deeply Understanding Asymptotic Analysis](https://www.youtube.com/playlist?list=PLiQ766zSC5jNlilqsJSiVcvIMxTdMlJbl) (Back To Back SWE)
+- [Dynamic Programming, Recursion, & Backtracking](https://www.youtube.com/playlist?list=PLiQ766zSC5jM2OKVr8sooOuGgZkvnOCTI) (Back To Back SWE)
+- [Graphs, Greedy Algorithms, & Other](https://www.youtube.com/playlist?list=PLiQ766zSC5jNlilqsJSiVcvIMxTdMlJbl) (Back To Back SWE)
 
 ---
 
-## :infinity: MATHEMATICS
+## :infinity: Mathematics
 
 - [Wolfram MathWorld](http://mathworld.wolfram.com/)
 - [ProofWiki](https://proofwiki.org/wiki/Main_Page)
-- [Be a Better Programmer with these 45 Mathematics Courses (Hacker Noon)](https://hackernoon.com/be-a-better-programmer-with-these-40-mathematics-courses-d8ca48a2f8a2)
+- [Be a Better Programmer with these 45 Mathematics Courses](https://hackernoon.com/be-a-better-programmer-with-these-40-mathematics-courses-d8ca48a2f8a2) (Hacker Noon)
 - [Coding Math](https://www.youtube.com/user/codingmath)
-- [Maths for Programmers (FreeCodeCamp)](https://www.youtube.com/playlist?list=PLWKjhJtqVAbndUuYBE5sVViMIvyzp_dB1)
-- [The Math Needed for Computer Science (Zach Star)](https://www.youtube.com/watch?v=eSFA1Fp8jcU)
+- [Maths for Programmers](https://www.youtube.com/playlist?list=PLWKjhJtqVAbndUuYBE5sVViMIvyzp_dB1) (freeCodeCamp)
+- [The Math Needed for Computer Science](https://www.youtube.com/watch?v=eSFA1Fp8jcU) (Zach Star)
 
 ---
 
-## :thumbsup: OTHER HELPFUL CONTENT
+## :thumbsup: Other Helpful Content
 
 - [Cracking the Coding Skills (Handout)](https://miro.medium.com/max/5100/1*UsPt4i_tM99tWVWa2aa29g.png)
 - [The C++ Resources Network](http://www.cplusplus.com/)
 - [AlgoWiki](https://wiki.algo.is/)
 - [IOI Syllabus](https://ioinformatics.org/files/ioi-syllabus-2019.pdf)
 - [Ementa OBI](https://olimpiada.ic.unicamp.br/info/ementa/geral/)
-- [Understanding Program Efficiency (MIT)](https://github.com/DanielBrito/intro-to-computer-science-python/blob/master/Lecture%2011/lec11_complexity.pdf)
+- [Understanding Program Efficiency](https://github.com/DanielBrito/intro-to-computer-science-python/blob/master/Lecture%2011/lec11_complexity.pdf)
 - [Awesone competitive programming](https://github.com/lnishan/awesome-competitive-programming)
 - [ACM/ICPC - C++ Cheat Sheet](https://www.cs.mun.ca/~dchurchill/pc/pdf/algorithms_1.pdf)

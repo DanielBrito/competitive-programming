@@ -1,3 +1,3 @@
 # Elegantly inspiring third-party codes
 
-Efficient approaches on solving coding problems.
+Efficient approaches on problem solving.
