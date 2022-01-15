@@ -3,8 +3,17 @@
 const candles = [4, 4, 1, 3];
 
 function birthdayCakeCandles(candles) {
-  const maxValue = Math.max(...candles);
-  return candles.filter((value) => value === maxValue).length;
+  const countMap = new Map();
+
+  candles.forEach((candle) => {
+    if (countMap.has(candle)) {
+      countMap.set(candle, countMap.get(candle) + 1);
+    } else {
+      countMap.set(candle, 1);
+    }
+  });
+
+  return Math.max(...countMap.values());
 }
 
 console.log(birthdayCakeCandles(candles));
