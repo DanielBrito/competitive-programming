@@ -28,10 +28,6 @@ import kotlin.math.*
  */
 
 fun gameWithCells(n: Int, m: Int): Int {
-    if(n == 1 && m == 1) return 1
-    if(n == 1 && m > 1) return ceil(m/2.0).toInt()
-    if(m == 1 && n > 1) return ceil(n/2.0).toInt()
-    
     return ceil(m/2.0).toInt() + (ceil(m/2.0).toInt() * ceil(n/2.0).toInt() - ceil(m/2.0).toInt())
 }
 
