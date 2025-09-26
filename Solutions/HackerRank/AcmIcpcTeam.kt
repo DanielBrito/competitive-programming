@@ -33,18 +33,18 @@ fun acmTeam(topic: Array<String>): Array<Int> {
     
     for(i in 0 until numberOfMembers) {
         for(j in i + 1 until numberOfMembers) {
-            val teamKnowledge = mutableListOf<Int>()
+            var teamKnowledge = 0
             
             for(k in 0 until numberOfTopics) {
                 if(topic[i][k] == '1' || topic[j][k] == '1') {
-                    teamKnowledge.add(k + 1)
+                    teamKnowledge++
                 }
             }
             
-            if(teamKnowledge.size > maxNumberOfTopicsKnown) {
-                maxNumberOfTopicsKnown = teamKnowledge.size
+            if(teamKnowledge > maxNumberOfTopicsKnown) {
+                maxNumberOfTopicsKnown = teamKnowledge
                 numberOfTeamsWithMaxKnowledge = 1
-            } else if(teamKnowledge.size == maxNumberOfTopicsKnown) {
+            } else if(teamKnowledge == maxNumberOfTopicsKnown) {
                 numberOfTeamsWithMaxKnowledge++
             }
         }
