@@ -4,6 +4,7 @@ import java.util.*;
 interface AdvancedArithmetic{
    int divisorSum(int n);
 }
+
 class Calculator implements AdvancedArithmetic {
     public int divisorSum(int n) {
         int result = 0;
